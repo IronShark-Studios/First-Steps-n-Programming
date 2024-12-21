@@ -9,8 +9,6 @@
 
   shellHook =
     ''
-      cowsay "Python Shell"
       ns
-      sleep 5
     '';
 }
