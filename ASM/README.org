@@ -1,1 +1,8 @@
 Follows the book Learn to Program with Assembly
+
+
+* Words
+- 1 byte (8bits) = byte
+- 2 bytes (16bits) = word
+- 4 bytes (32bits) = double word
+- 8 bytes (64bits) = quad word
